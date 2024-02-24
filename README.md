@@ -1,9 +1,9 @@
-# Fetch
+ # Fetch
 
 Hi! Please see details below regarding the assignment given:
 
 1. Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
-    - Fetch.sql is in this repository showing the codes written and ran in Microsoft SQL Server. 
+    - [AE code].sql is in this repository showing the codes written and ran in Microsoft SQL Server. 
     - A relational diagram is also provided as a .png file in this repository.
 2. Write a query that directly answers a predetermined question from a business stakeholder
    - The queries are located in the same .sql file.
